@@ -7,3 +7,7 @@ A collection of random zines I drew.
 Yo, this was my first zine published. It sucks and I really hate the palette I used.
 
 ![](images/20190928-bitcoin-legacy-addresses.svg)
+
+## Lightning network
+
+![](images/20191016-lightning-network.svg)
